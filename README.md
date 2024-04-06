@@ -17,7 +17,7 @@
 
 - Explore the possibilities of SQLite for managing databases in web and mobile applications.🗃️ 
 
-- I also know how to use software such as AutoCad, Revit, SketchUp. [- I also know how to use software such as AutoCad, Revit, SketchUp.](- I also know how to use software such as AutoCad, Revit, SketchUp.)
+- I also know how to use software such as AutoCad, Revit, SketchUp.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
