@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastián Ríos</h1>
 <h3 align="center">I am a passionate newbie in the world of development looking to learn and grow. I am excited to improve and acquire new skills. I would love to connect with other mentees and mentors to share knowledge and collaborate on exciting projects! 🚀 🏗👷‍♂️🚧</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=scur0n3&label=Profile%20views&color=0e75b6&style=flat" alt="scur0n3" /> </p>
-
 ### My interests are: 
 
 - Learn Django for backend web development.🌐
